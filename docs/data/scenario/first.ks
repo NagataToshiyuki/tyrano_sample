@@ -1,6 +1,6 @@
 *start
 
-[title name="走るか寝るかするメロス2"]
+[title name="走るか寝るかするメロス3"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
@@ -35,7 +35,7 @@
 
 *tag_run
 
-[bg storage=two.jpg time=500]
+[bg storage=two.png time=500]
 
 [cm]
 メロスは黒い風のように走った。[l][r]
